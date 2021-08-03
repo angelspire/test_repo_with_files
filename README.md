@@ -1,4 +1,6 @@
 # test_repo_with_files
 test_repo_with_files
 
-terst information added
+test information added
+
+some iunformation copy-pasted from Workstation
